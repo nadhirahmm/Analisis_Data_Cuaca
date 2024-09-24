@@ -1,0 +1,15 @@
+######## Hasil dari print(data) L31 ########
+'coord': {'lon': 104.7458, 'lat': -2.9167}
+'weather': [{'id': 500, 'main': 'Rain', 'description': 'light rain', 'icon': '10d'}]
+'base': 'stations'
+'main': {'temp': 300.2, 'feels_like': 303.92, 'temp_min': 300.2, 'temp_max': 300.2, 'pressure': 1010, 'humidity': 89, 'sea_level': 1010, 'grnd_level': 1009} # The temps are in Kelvin degrees
+'visibility': 7000
+'wind': {'speed': 1.03, 'deg': 0}
+'rain': {'1h': 0.24}
+'clouds': {'all': 20}
+'dt': 1727047581
+'sys': {'type': 1, 'id': 9424, 'country': 'ID', 'sunrise': 1727045403, 'sunset': 1727089005}
+'timezone': 25200
+'id': 1633070
+'name': 'Palembang'
+'cod': 200
